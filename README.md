@@ -9,3 +9,5 @@ To me, *The sky is the limit* means there are no limits.
 
 Here you will find my small personal projects—  
 explorations, experiments, and creations that I develop to learn and grow.
+
+⚠️ **Work in Progress** — This repository is constantly evolving.
